@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Abhi Patel
+- 👋 Hi, I’m Abhi Shobhashana
 - 🌱 I’m currently working on React.js
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ Tools and Technologies I use:
 
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
